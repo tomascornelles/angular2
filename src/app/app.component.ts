@@ -6,7 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 
-export class MiApp {
+export class AppComponent {
   title = 'Manual de Angular 2';
   visible = false;
   decirAdios() {
